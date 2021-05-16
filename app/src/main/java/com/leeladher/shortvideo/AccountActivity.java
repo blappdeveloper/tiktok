@@ -91,5 +91,6 @@ public class AccountActivity extends AppCompatActivity {
         Intent intent = new Intent(AccountActivity.this, DashBoardActivity.class);
         startActivity(intent);
         Animatoo.animateSlideDown(this);
+        finish();
     }
 }
