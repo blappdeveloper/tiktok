@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298605976508",
+    "project_id": "social-media-app-a077f",
+    "storage_bucket": "social-media-app-a077f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298605976508:android:c7da8ed769a0c276fa69b9",
+        "android_client_info": {
+          "package_name": "com.leeladher.shortvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298605976508-0puopeleflvjru6gkdsml3hpfcsbbidk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQDE44wdypc_E8vdfO7j0Yx587rpuhStc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298605976508-0puopeleflvjru6gkdsml3hpfcsbbidk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
